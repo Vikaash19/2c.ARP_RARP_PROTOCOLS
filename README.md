@@ -1,4 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
+### Name: Vikaash K S
+### Register Number: 212223240179
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
